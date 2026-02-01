@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class App {
-    // Create a logger instance for the App class
+    // Create a logger instance for the App class ---
     private static final Logger logger = LoggerFactory.getLogger(App.class);
     
     public static void main(String[] args) throws Exception {
